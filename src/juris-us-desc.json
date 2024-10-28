@@ -161,7 +161,7 @@
     },
     "army.court.criminal.appeals": {
       "name": "Army Court of Criminal Appeals",
-      "abbrev": "Army Ct. Crim. App."
+      "abbrev": "A. Ct. Crim. App."
     },
     "commerce.court": {
       "name": "Commerce Court",
@@ -211,7 +211,7 @@
       "name": "Coast Guard Board of Review",
       "abbrev": "C.G.B.R."
     },
-    "court.miliary.appeals": {
+    "court.military.appeals": {
       "name": "Court of Military Appeals",
       "abbrev": "C.M.A."
     },
@@ -1865,7 +1865,7 @@
         "coast.guard.court.criminal.appeals": {},
         "coast.guard.military.review": {},
         "coast.guard.board.review": {},
-        "court.miliary.appeals": {},
+        "court.military.appeals": {},
         "navy.marine.corps.court.military.review": {},
         "navy.court.military.review": {},
         "navy.board.review": {}
